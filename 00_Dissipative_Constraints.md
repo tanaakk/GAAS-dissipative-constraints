@@ -2,6 +2,8 @@
 
 GAAS Dissipative Constraints は、スタートアップが高エネルギー流の中で自己組織化するための**熱力学的必然性**を定義する。
 
+**8 つのリポジトリが一つの広域系を形成している。** 本リポジトリ（GAAS-dissipative-constraints）はその一部である。
+
 ---
 
 ## コンセプト
